@@ -66,7 +66,8 @@ bst_t *bst_delete(bst_t *root, bst_t *node)
 }
 
 /**
- * bst_remove_recursive - it removes a node from a binary search tree recursively
+ * bst_remove_recursive - it removes a node from a binary
+ * search tree recursively
  *
  * @root: A pointer to the root node of the BST to remove a node from
  *
