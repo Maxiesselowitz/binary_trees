@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_postorder - it goes through a binary tree
+ * binary_tree_postorder - A program that goes through a binary tree
  * using post-order traverse
  *
  * @tree: the tree to traverse

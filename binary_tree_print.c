@@ -4,8 +4,8 @@
 #include "binary_trees.h"
 
 
-/**
- * print_t - Stores recursively each level in an array of strings
+/* * print_t - A program that stores recursively each
+ * level in an array of strings program tha t
  *
  * @tree: Pointer to the node to print
  *
